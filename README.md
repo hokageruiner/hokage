@@ -1,2 +1,1 @@
-# hokage
-Hello world
+Оля милаха
